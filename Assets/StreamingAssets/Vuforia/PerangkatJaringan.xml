@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AP" size="500.000000 500.000000" />
+    <ImageTarget name="ROUTER" size="500.000000 500.000000" />
+    <ImageTarget name="SWITCH" size="500.000000 500.000000" />
+    <ImageTarget name="MODEM" size="500.000000 500.000000" />
+    <ImageTarget name="LANTESTER" size="500.000000 500.000000" />
+    <ImageTarget name="NICLAN" size="500.000000 500.000000" />
+    <ImageTarget name="NICWIRELESS" size="500.000000 500.000000" />
+    <ImageTarget name="HUB" size="500.000000 500.000000" />
+    <ImageTarget name="TANGCRIMPING" size="500.000000 500.000000" />
+    <ImageTarget name="KONEKTOR" size="500.000000 500.000000" />
+    <ImageTarget name="UTP" size="500.000000 500.000000" />
+    <ImageTarget name="FO" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>

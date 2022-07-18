@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 222357164484fa940b72aa5bf903fced
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d6b122aba41dbad4eabfd8d3f5b8ac1c
+  - enabled: 1
+    path: Assets/Scenes/ARCamera.unity
+    guid: 9557ab6c68dc93f4095eb46a58e571e2
+  - enabled: 1
+    path: Assets/Scenes/Panduan.unity
+    guid: 6af289d48f4de5a49911d3f1838ad602
+  - enabled: 1
+    path: Assets/Scenes/KetFO.unity
+    guid: 0b14ca791a3949b4ab9f1e8a72def3fc
+  - enabled: 1
+    path: Assets/Scenes/KetConnector.unity
+    guid: bb93110018395084dbcc3ad2b57a5dcf
+  - enabled: 1
+    path: Assets/Scenes/KetCrimping.unity
+    guid: e6ea05edc4f450e4d81dbc5d53030eca
+  - enabled: 1
+    path: Assets/Scenes/KetHub.unity
+    guid: 45e438f84c1a00e4196feedc37594776
+  - enabled: 1
+    path: Assets/Scenes/KetLanW.unity
+    guid: 412086399ba97034094334ddc4053ec5
+  - enabled: 1
+    path: Assets/Scenes/KetLanCard.unity
+    guid: aff7e24256f721f4a915c7a8569f7e68
+  - enabled: 1
+    path: Assets/Scenes/KetModem.unity
+    guid: 05382709c913eca449c7045433d76099
+  - enabled: 1
+    path: Assets/Scenes/KetTester.unity
+    guid: 7513c8efae3a8744c817bd0a076219ef
+  - enabled: 1
+    path: Assets/Scenes/KetSwitch.unity
+    guid: e557472c8a5295a40964b2ee1a2c86c8
+  - enabled: 1
+    path: Assets/Scenes/KetRouter.unity
+    guid: 1ddaaeca9827beb48a90075dca99157f
+  - enabled: 1
+    path: Assets/Scenes/KetAP.unity
+    guid: e9b3b879730545e4196d8711ae2de161
+  - enabled: 1
+    path: Assets/Scenes/Materi.unity
+    guid: 30bccde0390d7fb4783bb499ec378125
+  - enabled: 1
+    path: Assets/Scenes/Kuis.unity
+    guid: 2e35afdb817ac7643b28950d17ee41d8
+  - enabled: 1
+    path: Assets/Scenes/Latihan.unity
+    guid: bdffc12f934f56a43be27fd57aba60b1
+  m_configObjects: {}
